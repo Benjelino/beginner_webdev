@@ -1,0 +1,164 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border-spacing: 0px;
+}
+
+h2{
+    margin: 0px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+i{
+    color: tomato;
+}
+h3{
+    color: tomato;
+    margin: 0px;
+    padding-top: 60px;
+
+}
+div{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+hr{
+    color: tomato;
+}
+.Topbox{
+    margin: 0px;
+    height: 500px;
+    background-image: url(../img/hello-300.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat:  no-repeat;
+    background-color: teal;
+}
+.box2{
+    height: 300px;
+    background-color: lightcoral;
+    margin-top: 0px;
+}
+#myCanvas{
+    background-color: yellowgreen;
+}
+.box2div{
+    
+    padding-top: 20px;
+    text-align: center;
+    position: relative;
+    top: 20%;
+    
+}
+.attention{
+    fill: red;   
+    width: 50px;  
+    height: 50px;
+}
+.box3{
+    height: 300px;
+    background-color:beige;
+    margin: 0px;
+    text-align: center;
+}
+.box3p{
+    color: black;
+}
+.box3div{
+    padding: 15px;
+    display: inline-block;
+    width: 300px;
+}
+.box3div > h3{
+    padding: 5px;
+    color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.box4{
+    height: 599px;
+    background-color: lightcoral;
+    margin: 0px;
+}
+.box5{
+    height: 200px;
+    background-color: rgb(65, 65, 65);
+    margin: 0px;
+    text-align: center;
+}
+.box5 > h2{
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+.box6{
+    height: 300px;
+    background-color: white;
+    margin: 0px;
+    text-align: center;
+}
+.box7{
+    height: 30px;
+    background-color: gray;
+    margin: 0px;
+    text-align: center;
+}
+.box6 > h2{
+    color:  rgb(65, 65, 65);
+    padding-top: 50px;
+
+}
+.box6p {
+    color:rgb(65, 65, 65);
+}
+.box6div{
+    display: inline-block;
+    padding: 15px;
+}
+.Tooltext{
+    font-size: 20px;
+    position: relative;
+    color: lavender;
+}
+a{
+    text-decoration: none;
+    margin: auto 10px;
+    margin-top: 20px;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: white;
+}
+.topdiv{
+    text-align: center;
+    margin-top: 150px;
+    
+}
+.admire{
+    color: white;
+    font-size: 30px;
+    font-family: 'Open Sans';
+}
+p{
+    text-align: center;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+}
+.signup{
+    margin-top: 100px;
+    background-color: tomato;
+    border-radius: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.click{
+    background-color:white;
+    border-radius: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+.img{
+    width: 33.3%;
+    object-fit: cover;
+    float: left;
+}
